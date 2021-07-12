@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandhalakshmii
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning looking for an Intern that would enhance my technical skills in web development
+- 🌱 I’m currently looking for an Internship with a suitable environment that would enhance my skills.
 
 
 <!---
