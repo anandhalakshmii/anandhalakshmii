@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anandhalakshmii
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full stack Web Development
 - 🌱 I’m currently looking for an Internship with a suitable environment that would enhance my skills.
 
 
