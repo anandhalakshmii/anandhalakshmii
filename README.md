@@ -20,10 +20,6 @@ Link : <a href="https://portfolio-rho-seven-35.vercel.app/">anadhalakshmi-s-port
 <img width = "70px" height = "70px" src = "https://media.tenor.com/F_aIpdp3hEwAAAAj/git-github.gif">
 <img style = "width:70px; height:70px;" src = "https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"><br><br>
 
-  
-<b>My Git Stats</b><br><br>
-[![Anandhalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandhalakshmii)](https://github.com/anuraghazra/github-readme-stats)<br>
-
 
 
 <!---
